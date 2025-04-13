@@ -1,4 +1,3 @@
-// components/GeneralList.ts
 import { Breed } from "./getData";
 import { createCard } from "./card";
 

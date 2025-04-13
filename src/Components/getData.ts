@@ -1,4 +1,3 @@
-// getData.ts
 export interface Breed {
     id: string;
     type: string;

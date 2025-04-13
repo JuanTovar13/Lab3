@@ -1,4 +1,4 @@
-// components/Card.ts
+
 import { Breed } from "./getData";
 
 export function createCard(content: string): HTMLDivElement {
